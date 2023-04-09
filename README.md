@@ -3,7 +3,7 @@
 ## Features 
 - Grabs Google Chrome passwords
 - Grabs Google Chrome cookies
-- GrABS Google Chrome Autofill and etc.
+- Grabs Google Chrome Autofill and etc.
 - Grabs All Browser cookie Password and Autofill and etc.
 - Grabs Discord token
 - Grabs victim machine info
