@@ -17,6 +17,7 @@
 - Fear Uncertainty Doubt (F.U.D)
 - Advanced Embed
 - Desktop File Steal
+- Sonoyuncu and Craftrise Minecraft Clientside Steal
 
 #
 <p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/attachments/913503300488400966/1094564471952908339/image.png"width="420"> </kbd><br><br>
