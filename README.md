@@ -20,4 +20,5 @@
 
 ## Example Log
 ![preview](https://cdn.discordapp.com/attachments/913503300488400966/1090010148984070184/image.png)
+
 ![Virüstotal](https://cdn.discordapp.com/attachments/913503300488400966/1094558054952996874/image.png)
