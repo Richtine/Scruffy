@@ -20,4 +20,5 @@
 - Sonoyuncu and Craftrise Minecraft Clientside Steal
 
 #
+<p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/attachments/913503300488400966/1094565310465572914/xs.png"width="600"> </kbd><br><br>
 <p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/attachments/913503300488400966/1094564471952908339/image.png"width="420"> </kbd><br><br>
