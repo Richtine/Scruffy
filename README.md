@@ -4,14 +4,14 @@
   <i>a stealer written in java, logs will be sent to your webhook.</i>
 </p>
 
-### ☎ for contact
+### ☎ 〢 for contact
  - **[Discord Server](https://discord.gg/scruffy)**
 
-### 👨‍💻 devs
+### 👨‍💻 〢 devs
  - **[itzgonza](https://github.com/itzgonza)**
  - **[Richtine](https://github.com/Richtine)**
 
-### 🪧 features
+### 🪧 〢 features
  - **Grabs crypto wallets (all extension and program)**
  - **Installed all VPN session stealer (with validator)**
  - **Instagram session stealer (with validator)**
@@ -25,7 +25,7 @@
  - **Desktop file stealer**
  - **Autostart (startup)**
 
-### 🛡️ additional
+### 🛡️ 〢 additional
  - **Obfuscation (custom)**
  - **Undetected (0/62)**
  - **Advanced embed**
