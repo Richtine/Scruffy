@@ -11,27 +11,51 @@
  - **[itzgonza](https://github.com/itzgonza)**
  - **[Richtine](https://github.com/Richtine)**
 
-### 🪧 〢 features
- - **Grabs crypto wallets (all extension and program)**
- - **Installed all VPN session stealer (with validator)**
- - **Instagram session stealer (with validator)**
- - **Minecraft session stealer (with validator)**
- - **Discord guilds (with rare permissions)**
- - **Steam session stealer (with validator)**
- - **Discord all infos (with injection)**
- - **Growtopia save.dat stealer**
- - **Discord gifts (with codes)**
- - **Steal browsers (all datas)**
- - **Desktop file stealer**
- - **Autostart (startup)**
+### 🔱 〢 Features
+> **☄️ General**
+> - Discord all infos **(most featured grab)**
+> - Discord guilds **(rare permissions)**
+> - Grabs crypto wallets **(all types)**
+> - Instagram session **(validator)**
+> - Minecraft session **(validator)**
+> - Steam session **(validator)**
+> - Steal browsers **(all datas)**
+> - Discord gifts **(codes)**
+>
+> **✨ Application**
+> - Discord
+> - Steam
+>
+> **🎲 Game**
+> - Growtopia
+> - Minecraft
+> - SonOyuncu
+> - CraftRise
+>
+> **💉 Injection**
+> - Discord Injector
+> - Startup Injector
+>
+> **🖥️ System**
+> - Desktop File
+> - Screenshot(s)
+>
+> **🛡️ VPN**
+> - Proton VPN
+> - Nord VPN
+> - Open VPN
+>
+> **AND MORE..**
 
-### 🛡️ 〢 additional
- - **Obfuscation (custom)**
- - **Undetected (0/62)**
- - **Advanced embed**
- - **Anti debug/vm**
- - **Support (*.exe)**
- - **Only windows**
+### 🤞 〢 Additional
+> **☄️ General**
+> - Obfuscation **(custom)**
+> - Undetected **(0/62)**
+> - Support **(*.exe)**
+> - Anti Debug/VM
+> - Only Windows
+>
+> `when you buy it, you can receive it via discord with /build.`
 
 ### 🧫 〢 Embed (e.g)
 > <p align= "left"> <kbd> <img  src="https://cdn.discordapp.com/attachments/913503300488400966/1094564471952908339/image.png"width="420"> </kbd>
