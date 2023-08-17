@@ -5,7 +5,7 @@
 </p>
 
 ### ☎ 〢 for contact
- - **[Discord Server](https://discord.gg/scruffy)**
+ - **[Discord Server](https://discord.gg/525tjkGPPB)**
 
 ### 👨‍💻 〢 devs
  - **[itzgonza](https://github.com/itzgonza)**
