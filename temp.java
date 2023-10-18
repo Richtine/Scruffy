@@ -1,1 +1,1 @@
-class temp {}
+enum temp {INSTANCE;}
