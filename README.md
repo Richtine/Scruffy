@@ -3,7 +3,7 @@
   <p>https://github.com/itzgonza/Scruffy-Stealer-OpenSource</p>
 </div>
 
----
+#
 
 <p align="center">
   <b>Most featured new generation Stealer</b> <br>
